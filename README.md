@@ -9,7 +9,7 @@
   * VIIRS S-NPP
   * VIIRS NOAA-20
 
-View the Jupyter Notebook by clicking on this: [Link](https://github.com/walterm128/drivendata2024visual/blob/main/VIIRSChallengeFinal.ipynb)
+#### **View the Jupyter Notebook by clicking on this: [Link](https://github.com/walterm128/drivendata2024visual/blob/main/VIIRSChallengeFinal.ipynb)**
 
 Study Area
 ![alt](HSStudyArea.png)
