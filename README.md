@@ -9,5 +9,11 @@
 
 View Jupyter Notebook by clicking on the  [Link](https://github.com/walterm128/drivendata2024visual/blob/main/VIIRSChallengeFinal.ipynb)
 
+Study Area
+![alt](HSStudyArea.png)
+
 ![alt](Annualhotspots2014-2024.png)
 
+![alt](Dailyhotspots2012-2021.png)
+
+![alt](HSArgentina-StudyArea.png)
