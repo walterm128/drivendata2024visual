@@ -1,4 +1,6 @@
-# drivendata2024visual
+# DRIVENData
+# Pale Blue Dot: Visualization Challenge
+# Team: Space Discovery 2024
 
 #### **Dataset obtained from FIRMS Fire Map Los Alerces National Park, Argentina**
 
