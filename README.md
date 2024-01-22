@@ -19,3 +19,5 @@ Study Area
 ![alt](Dailyhotspots2012-2021.png)
 
 ![alt](HSArgentina-StudyArea.png)
+
+![alt](MITLicenseLogo.jpg)
