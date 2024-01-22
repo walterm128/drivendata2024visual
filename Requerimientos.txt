@@ -1,0 +1,3 @@
+pip install pyhdf
+pip install numpy pandas matplotlib cartopy seaborn xarray h5py
+pip install geopandas
