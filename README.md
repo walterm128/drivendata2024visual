@@ -12,7 +12,7 @@
 
 # **View the Jupyter Notebook by clicking on this: [Link](https://github.com/walterm128/drivendata2024visual/blob/main/VIIRSChallengeFinal.ipynb)**
 
-# **Video of work in progress: [Link](https://youtu.be/Ex0pvMqKwnY)**
+# **Video of work in progress: [Link](https://youtu.be/rdi4twwtL0k)**
 
 Study Area
 ![alt](HSStudyArea.png)
