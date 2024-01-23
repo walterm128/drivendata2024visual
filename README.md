@@ -6,7 +6,6 @@
 #### **Dataset obtained from FIRMS Fire Map Los Alerces National Park, Argentina**
 
 #### **Fire Source: 375m data**
-  * MODIS
   * VIIRS S-NPP
   * VIIRS NOAA-20
 
