@@ -29,7 +29,7 @@
 <p align="center">
 <img src="MITLicenseLogo.jpg" alt="image" height="auto">
 </p>
-#### Logo Team
+<h2>Logo Team</h2>
 <p align="center">
 <img src="logo.png" alt="image" width="300" height="auto">
 </p>
