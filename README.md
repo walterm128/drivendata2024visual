@@ -23,3 +23,6 @@ Study Area
 ![alt](HSArgentina-StudyArea.png)
 
 ![alt](MITLicenseLogo.jpg)
+
+#### Logo Team
+![alt](logo.png)
