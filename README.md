@@ -13,21 +13,21 @@
 
 # **Video of work in progress: [Link](https://youtu.be/rdi4twwtL0k)**
 
-Study Area
+# Study Area
 <p align="center">
-![alt](HSStudyArea.png)
+<img src="HSStudyArea.png" alt="image" height="auto">
 </p>
 <p align="center">
-![alt](Annualhotspots2014-2024.png)
+<img src="Annualhotspots2014-2024.png" alt="image" height="auto">
 </p>
 <p align="center">
-![alt](Dailyhotspots2012-2021.png)
+<img src="Dailyhotspots2012-2021.png" alt="image" height="auto">
 </p>
 <p align="center">
-![alt](HSArgentina-StudyArea.png)
+<img src="HSArgentina-StudyArea.png" alt="image" height="auto">
 </p>
 <p align="center">
-![alt](MITLicenseLogo.jpg)
+<img src="MITLicenseLogo.png" alt="image" height="auto">
 </p>
 #### Logo Team
 <p align="center">
