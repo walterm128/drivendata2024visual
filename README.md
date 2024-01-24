@@ -25,4 +25,4 @@ Study Area
 ![alt](MITLicenseLogo.jpg)
 
 #### Logo Team
-![alt](logo.png)
+<img src="logo.png" alt="image" width="100" height="auto">
