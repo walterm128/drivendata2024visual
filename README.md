@@ -27,7 +27,7 @@
 <img src="HSArgentina-StudyArea.png" alt="image" height="auto">
 </p>
 <p align="center">
-<img src="MITLicenseLogo.png" alt="image" height="auto">
+<img src="MITLicenseLogo.jpg" alt="image" height="auto">
 </p>
 #### Logo Team
 <p align="center">
