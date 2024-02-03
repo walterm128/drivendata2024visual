@@ -1,3 +1,6 @@
+<p align="center">
+<img src="Encabezado.png" alt="image" width="300" height="auto">
+</p>
 # DRIVENData
 # Pale Blue Dot: Visualization Challenge
 # Team: Space Discovery 2024
@@ -33,7 +36,6 @@
 <p align="center">
 <img src="logo.png" alt="image" width="300" height="auto">
 </p>
-
 <p align="center">
 <img src="CreadoPor.png" alt="image" width="300" height="auto">
 </p>
