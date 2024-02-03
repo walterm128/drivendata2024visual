@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Encabezado.png" alt="image" width="300" height="auto">
+<img src="Encabezado.png" alt="image" height="auto">
 </p>
 # DRIVENData
 # Pale Blue Dot: Visualization Challenge
