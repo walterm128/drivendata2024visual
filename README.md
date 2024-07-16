@@ -39,3 +39,7 @@
 <p align="center">
 <img src="CreadoPor.png" alt="image" width="300" height="auto">
 </p>
+# Autores
+<p align="center">
+<img src="Autores" alt="image" height="auto">
+</p>
